@@ -176,5 +176,7 @@ def load_data():
   print("N buyers:", total_buyer_spending.buyer.nunique())
   print("N bids:", bidding_df.shape[0])
 
+
+
   return art_metadata_df, artist_metadata_df, invited_by_metadata,bidding_df, minting_df, listing_df, max_bid_df, total_artist_earning, total_buyer_spending
 
