@@ -1,9 +1,4 @@
 你好
-<<<<<<< HEAD
 Include this line in the first commit
-测试
-=======
-Include this line in the first commit
->>>>>>> bc0689b463b3336e325e7b0855abe49901aec5bf
 
 Include this line in the second commit
